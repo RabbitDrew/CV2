@@ -594,7 +594,9 @@ transition: opacity .2s ease;
         .git_link, .school_link {
             text-decoration: none;
         }
-
+        .school_link {
+            display: none;
+        }
             .year_title{
                 font-size: 20px;
                 font-weight: 400;
